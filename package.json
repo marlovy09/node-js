@@ -1,0 +1,18 @@
+{
+    "name": "node",
+    "version": "1.0.0",
+    "description": "Esto es un curso de node.js",
+    "main": "index.js",
+    "scripts": {
+        "fabian": "node index.js",
+        "info": "node 02-modulos-nativos/1-os.js"
+       
+    },
+    "keywords": [],
+    "author": "Marlovy",
+    "license": "MIT",
+    "dependencies": {
+        "chalk": "^5.3.0",
+        "os": "^0.1.2"
+    }
+}
