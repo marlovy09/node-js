@@ -1,18 +1,19 @@
 {
-    "name": "node",
-    "version": "1.0.0",
-    "description": "Esto es un curso de node.js",
-    "main": "index.js",
-    "scripts": {
-        "fabian": "node index.js",
-        "info": "node 02-modulos-nativos/1-os.js"
-       
-    },
-    "keywords": [],
-    "author": "Marlovy",
-    "license": "MIT",
-    "dependencies": {
-        "chalk": "^5.3.0",
-        "os": "^0.1.2"
-    }
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Esto es un curso de node.js",
+  "main": "index.js",
+  "scripts": {
+    "Marlovy": "node index.js",
+    "info": "node 02-modulos-nativos/1-os.js",
+    "saludar": "node ejercicio-01/02-process.js"
+  },
+  "keywords": [],
+  "author": "Marlovy",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "dotenv": "16.3.1",
+    "os": "^0.1.2"
+  }
 }
